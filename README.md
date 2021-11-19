@@ -9,7 +9,7 @@ Here is a published paper based on this work. To understand this work deeply, Pl
 
 ## Tittle: Bangla Word Prediction and Sentence Completion Using GRU: An Extended Version of RNN on N-gram Language Model
 
-Find our paper through the link below:  
+Find the paper through the link below:  
 [Click to find our paper in ieeexplore](https://ieeexplore.ieee.org/document/9068063 "ieeexplore") 
 OR
 [Click to find our paper in Researchgate](https://www.researchgate.net/publication/340690395_Bangla_Word_Prediction_and_Sentence_Completion_Using_GRU_An_Extended_Version_of_RNN_on_N-gram_Language_Model "Researchgat") 
